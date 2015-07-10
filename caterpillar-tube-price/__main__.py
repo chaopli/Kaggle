@@ -1,3 +1,5 @@
+# script shared by Nickel on
+# https://www.kaggle.com/nickel/caterpillar-tube-pricing/tubes-processing
 import numpy as np
 import pandas as pd
 
